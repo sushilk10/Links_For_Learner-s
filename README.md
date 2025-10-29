@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/banner.png" alt="Ultimate Developer Learning Hub Banner" width="100%">
+</p>
+
 # 🚀 Ultimate Developer Learning Hub 🌐
 *A curated collection of the best resources to master Web Dev, Programming, AI, and Cloud — all in one place.*
 
