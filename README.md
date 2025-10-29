@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/banner.png" alt="Ultimate Developer Learning Hub Banner" width="100%">
+  <img src="https://github.com/sushilk10/Links_For_Learner-s/blob/main/banner.png?raw=true" alt="Ultimate Developer Learning Hub Banner" width="60%">
 </p>
 
 # 🚀 Ultimate Developer Learning Hub 🌐
